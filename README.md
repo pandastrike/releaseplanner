@@ -1,8 +1,6 @@
 releaseplanner
 ==============
 
-# Release Planner
-
 Release Planner lets you create a Release Plan Wiki Page based on milestones/issues/tickets in the github repo.
 
 by Panda Strike LLC
