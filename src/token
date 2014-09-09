@@ -1,0 +1,3 @@
+# Place a personal Github token in this file and rename it to '.token'.
+id: "<put-your-id-here>"
+key: "<put-your-key-here>"

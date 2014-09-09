@@ -1,0 +1,26 @@
+
+NAME
+
+  releaseplanner -- Create Release Plan Wiki Page based on milestones/issues/tickets
+  
+SYNOPSIS
+
+  releaseplanner <subcommand> <options>
+  
+COMMANDS
+
+  releaseplanner newplan <options>
+  
+  SYNOPSIS 
+  
+  Perform the packaging for a given manifest, writing the resulting JavaScript
+  to standard output.
+  
+  OPTIONS
+  
+    --plan, -p  <plan>                URL to github repo
+                                      
+    --name, -n <page-name>            Name of wiki page to create/overwrite.
+
+    --verbose, -v                     Log information to help diagnose 
+                                      problems.

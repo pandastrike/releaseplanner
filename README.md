@@ -1,5 +1,4 @@
-releaseplanner
-==============
+# Release Planner
 
 Release Planner lets you create a Release Plan Wiki Page based on milestones/issues/tickets in the github repo.
 
@@ -12,8 +11,7 @@ by Panda Strike LLC
 
 ## Installation
 
-~~npm install -g releaseplanner~~
-    *not published yet
+    npm install -g releaseplanner
 
 ## Usage
 
@@ -26,7 +24,7 @@ by Panda Strike LLC
 4. Generate your release plan: `releaseplanner newplan [-p <github-repo-URL>] -n <wiki-page-name>`
 
 ### Template
-_tbd_
+
 
 ### Is it Any Good?
 Yes.
@@ -38,11 +36,9 @@ See the [man page for more][1], or just type `releaseplanner help`.
 [1]:https://raw.github.com/pandastrike/releaseplanner/master/doc/USAGE
 
 ## API
-_tbd_
 
 
 ## Roadmap
-_tbd_
 
 
 ## Status

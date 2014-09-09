@@ -1,0 +1,41 @@
+{
+  "name": "releaseplanner",
+  "version": "0.0.1",
+  "description": "Create Release Plan Wiki Page based on milestones/issues/tickets.",
+  "main": "index.coffee",
+    "bin": {
+        "releaseplanner": "./bin/releaseplanner"
+    },
+  "scripts": {
+      "test": "coffee test/test.coffee"
+  },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dyoder/releaseplanner.git"
+    },
+  "keywords": [
+    "node",
+    "npm",
+    "require",
+    "web",
+    "browser",
+    "shred",
+    "release",
+    "plan",
+    "milestone",
+    "ticket",
+    "issue",
+    "bamboo"
+  ],
+  "author": "Darius Clarke <darius@pandastrike.com>",
+  "license": "MIT",
+    "dependencies": {
+        "coffee-script": "1.3.x",
+        "shred": "~1.0.0-alpha-04",
+        "fairmont": "^0.8.2"
+    },
+    "devDependencies": {
+        "node-system": "0.0.3",
+        "testify": "~0.2.8"
+    }
+}
