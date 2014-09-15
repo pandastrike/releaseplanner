@@ -1,3 +1,5 @@
 #!/usr/bin/env coffee
 
 require("../src/cli")
+require("../src")
+require("..")
